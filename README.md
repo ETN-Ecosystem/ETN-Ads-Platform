@@ -30,7 +30,7 @@ The ETN Ads Platform allows:
 1. **Fork** this repository to your GitHub account.
 2. **Clone** the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/etn-ads-platform.git
+   git clone https://github.com/ETN-Ecosystem/ETN-Ads-Platform.git
    ```
 3. **Install the dependencies**:
    ```bash
